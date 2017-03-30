@@ -8,4 +8,26 @@
     <item name="colorAccent">@color/colorAccent</item>
   </style>
 
+  <style name="Font">
+    <item name="android:textSize">@dimen/font_size_normal</item>
+    <item name="android:textColor">@color/colorPrimaryLight</item>
+  </style>
+
+  <style name="Font.Accent">
+    <item name="android:textSize">@dimen/font_size_normal</item>
+    <item name="android:textColor">@color/colorAccent</item>
+  </style>
+
+  <style name="Font.Big">
+    <item name="android:textSize">@dimen/font_size_big</item>
+  </style>
+
+  <style name="Font.Accent.Big">
+    <item name="android:textSize">@dimen/font_size_big</item>
+  </style>
+
+  <style name="Font.Small">
+    <item name="android:textSize">@dimen/font_size_small</item>
+  </style>
+
 </resources>
